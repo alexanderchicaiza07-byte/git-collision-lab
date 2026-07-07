@@ -1,9 +1,9 @@
 function CalcularPrecio(){
 
     precio = document.getElementById("precio").value;
-    descuento =precio * 200
+    descuento =precio * 10
     return descuento;
 
-    console.log("HACE EL CAMBIO Aldario856")
+    console.log(" RESOLVIENDO EL CONFLICTO FINAL POR ALEXANDERCHICAIZA07")
     
 }
